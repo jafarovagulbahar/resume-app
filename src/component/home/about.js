@@ -51,6 +51,12 @@ function About() {
                       <div className="col-lg-6">
                         <h3 className="resume-title">&#10094; Work Experience &#x2215; &#10095;</h3>
                         <div className="resume-item">
+                          <h5> "ProNet" MMC</h5>
+                          <h5>2021 January/ currently</h5>
+                          <p><em>Front End Developer</em></p>
+              
+                        </div>
+                        <div className="resume-item">
                           <h5> "Sourced Agile" LLC</h5>
                           <h5>2020 June/ 2021 January</h5>
                           <p><em>Front End Developer</em></p>
