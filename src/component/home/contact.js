@@ -39,7 +39,7 @@ export default function Contact() {
                 <div className="col-lg-8 mt-5 mt-lg-0">
                     <input type="email" className="form-control mail-message" id="mail" name="newsletter" placeholder="Email.."/>
                     <br/>
-                    <textarea className="form-control mail-message" id="message" placeholder="Message.." ></textarea>
+                    <textarea className="form-control mail-message" id="message" placeholder="Əlaqə bölümü işləkdir:) Mesaj göndərə bilərsiniz." ></textarea>
                     <button type="submit" value="send" id="submit" className="btn btnGeneral" >
                         SEND
                     </button>

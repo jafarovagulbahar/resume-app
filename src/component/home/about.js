@@ -9,7 +9,7 @@ function About() {
     
             <div className="section-title">
               <h2>About</h2>
-             <a href="https://drive.google.com/file/d/1-KtILRrlb5Yqv4JlKwsxBIGnU1RaRBtp/view?usp=sharing" target='blank'>
+             <a href="https://drive.google.com/file/d/1Z_c6-0kpXNCBAdoY0BNhMuKhQoY6E8Ol/view?usp=sharing" target='blank'>
              <button className="btn btnGeneral" >Download CV</button>
              </a>
             </div>

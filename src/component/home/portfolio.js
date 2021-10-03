@@ -11,20 +11,11 @@
       
      },
     {
-     index:1,
-     title: 'Sourced Agile LLC',
-     caption: 'Real Proje',
-     img:'assets/img/portfolio/sourced.jpg',
-     link:'https://sourcedagile.com/new/',
-     github:'https://github.com/jafarovagulbahar/sourced'
-     
-    },
-    {
      index:3,
      title: 'Girls Code Azerbaijan',
      caption: 'Real Proje',
      img:'assets/img/portfolio/girls.jpg',
-     link:'https://jafarovagulbahar.github.io/girls-code-az/',
+     link:'https://jafarovagulbahar.github.io/GirlsCode-say-t-New/',
      github:'https://github.com/jafarovagulbahar/GirlsCode-say-t-New'
     },
     {
@@ -46,20 +37,38 @@
      },
      {
       index:6,
-      title: 'Build Company',
+      title: 'Animation App',
       caption: 'Amateur',
-      img:'assets/img/portfolio/build.jpg',
-      link:"https://jafarovagulbahar.github.io/build-company/",
-      github:'https://github.com/jafarovagulbahar/build-company'
+      img:'assets/img/portfolio/animation.png',
+      link:"https://jafarovagulbahar.github.io/Animation-Website/",
+      github:'https://github.com/jafarovagulbahar/Animation-Website'
   
+     },
+     {
+      index:1,
+      title: 'Sourced Agile LLC',
+      caption: 'Real Proje',
+      img:'assets/img/portfolio/sourced.jpg',
+      link:'https://jafarovagulbahar.github.io/web_site_/',
+      github:'https://github.com/jafarovagulbahar/sourced'
+      
      },
      {
       index:55,
       title: 'Login App',
       caption: '',
       img:'assets/img/portfolio/login.jpg',
-      link:'',
-      github:'https://github.com/jafarovagulbahar/responsive-website1'
+      link:'https://github.com/jafarovagulbahar/login_app_up',
+      github:'https://github.com/jafarovagulbahar/login_app_up'
+  
+     },
+     {
+      index:55,
+      title: 'Weather App',
+      caption: '',
+      img:'assets/img/portfolio/hava.jpg',
+      link:'https://musing-mayer-254857.netlify.app/',
+      github:'https://github.com/jafarovagulbahar/weather-app'
   
      },
      {
